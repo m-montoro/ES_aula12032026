@@ -1,3 +1,5 @@
+![alt text](DUC_samuelbedin_murilomontoro.png)
+
 ## UC01 — Realizar Login (UC EXEMPLO - FAZER DESSA FORMA PARA TODOS OS CASOS DE USO, NESSE MESMO DOCUMENTO)
 
 ### Ator Principal
